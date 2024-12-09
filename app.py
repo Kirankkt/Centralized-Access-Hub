@@ -18,7 +18,7 @@ st.write("""
 # Links to datasets
 st.header("📂 Datasets")
 st.write("""
-- [Dataset 1: Property Data](link_to_dataset_1)
+- [Dataset 1: Property Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/Hplot_df_filer_cleaned_no_outliers.csv)
 - [Dataset 2: Plot Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/standardized_locations_dataset.csv)
 """)
 
