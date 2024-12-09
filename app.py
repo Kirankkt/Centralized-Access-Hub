@@ -11,8 +11,8 @@ Welcome to the centralized hub! Use the links below to access the tools and data
 st.header("🛠️ Applications")
 st.write("""
 1. [CrewAI Real Estate Tool](https://crewaitool-uzwk38yjho9ouwokcjws7k.streamlit.app/)
-2. [Trivandrum Plot Prediction](https://trivandrumplotonlyprediction-zzapspozppnri6avd9ibme.streamlit.app/)
-3. [Trivandrum Property Prediction](https://tvmestate2407.streamlit.app/)
+2. [Trivandrum Plot Price Prediction](https://trivandrumplotonlyprediction-zzapspozppnri6avd9ibme.streamlit.app/)
+3. [Trivandrum Property Price Prediction](https://tvmestate2407.streamlit.app/)
 """)
 
 # Links to datasets
