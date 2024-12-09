@@ -19,7 +19,7 @@ st.write("""
 st.header("📂 Datasets")
 st.write("""
 - [Dataset 1: Property Data](link_to_dataset_1)
-- [Dataset 2: Analysis Data](link_to_dataset_2)
+- [Dataset 2: Plot Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/standardized_locations_dataset.csv)
 """)
 
 st.info("Bookmark this page for quick access to all tools and data!")
