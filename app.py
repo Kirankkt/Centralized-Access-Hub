@@ -12,7 +12,6 @@ st.header("🛠️ Applications")
 st.write("""
 1. [CrewAI Real Estate Tool](https://crewaitool-uzwk38yjho9ouwokcjws7k.streamlit.app/)
 2. [Trivandrum Plot Price Prediction-model](https://augmenteddataplotpricepred-kc4ascraaeabldkyf467ft.streamlit.app/)
-3. [Trivandrum Property Price Prediction](https://tvmestate2407.streamlit.app/)
 
 """)
 
