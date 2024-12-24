@@ -19,8 +19,8 @@ st.write("""
 # Links to datasets
 st.header("📂 Datasets")
 st.write("""
-- [Dataset 1: Property Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/Hplot_df_filer_cleaned_no_outliers.csv)
-- [Dataset 2: Plot Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/standardized_locations_dataset.csv)
+- [Dataset 1: Property Data](https://github.com/Kirankkt/Centralized-Access-Hub/blob/main/Updated_Cleaned_Dataset%20(1).csv)
+- [Dataset 2: Plot Data](https://raw.githubusercontent.com/Kirankkt/Centralized-Access-Hub/refs/heads/main/standardized_locations_dataset.cs)
 """)
 
 st.info("Bookmark this page for quick access to all tools and data!")
