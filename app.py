@@ -13,6 +13,7 @@ st.write("""
 1. [CrewAI Real Estate Tool](https://crewaitool-uzwk38yjho9ouwokcjws7k.streamlit.app/)
 2. [Trivandrum Plot Price Prediction-model](https://augmenteddataplotpricepred-kc4ascraaeabldkyf467ft.streamlit.app/)
 3. [Trivadrum Property Price Prediction-model](https://augmentedpropertydataset-okiq2b359bugl257t8dwzx.streamlit.app/)
+4. [Interactive Dashboard for plot and property datasets](https://intreactivedashboarddataset-fatnajv9hdxxw6tdtu8f65.streamlit.app/)
 
 """)
 
